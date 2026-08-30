@@ -8,6 +8,9 @@
 
 ## ✨ ฟีเจอร์เด่น 
 
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/fbb7e4ae-083e-4943-991a-ffd7a3d5e540" />
+
+
 ### 📌 ฝั่งผู้ใช้งาน (Frontend)
 * **Single Page Layout:** ดีไซน์หน้าเว็บหลักแบบหน้าเดียวจบ พร้อมแอนิเมชันขณะเลื่อนหน้าจอ (AOS.js)
 * **Dynamic Categorization:** แบ่งหมวดหมู่ข้อมูลชัดเจน (สถานที่ท่องเที่ยว, ร้านอาหาร, สินค้า OTOP)
